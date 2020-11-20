@@ -4,12 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from itertools import combinations
 
-"""
-模块说明
-	作者：马世奇
-	功能：计算各组主观评价结果的误判率
-	完成时间：2019-10-23
-"""
 
 # FILE = "idle.xlsx"
 # SAMPLE_NUM = 13
