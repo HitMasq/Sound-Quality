@@ -1,8 +1,3 @@
-"""
-留一法误差均值计算程序
-作者：		马世奇
-完成时间：	2019.11.15
-"""
 import numpy as np
 from sklearn.svm import SVR
 import matplotlib.pyplot as plt
