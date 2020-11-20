@@ -1,9 +1,3 @@
-"""
-模型加载，用于预测
-作者：马世奇
-完成时间：2019.11.08
-"""
-
 import pandas as pd
 from sklearn.externals import joblib
 
