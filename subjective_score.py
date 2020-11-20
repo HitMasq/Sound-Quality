@@ -3,12 +3,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-"""
-模块说明
-	作者：马世奇
-	功能：计算各组主观评价结果的打分值
-	完成时间：2019-10-24
-"""
 
 files = {"idle.xlsx": 13, "const.xlsx": 16}			# 怠速13个；匀速16个
 
