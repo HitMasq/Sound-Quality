@@ -2,13 +2,6 @@ import subjective_score as ss
 import numpy as np
 import pandas as pd
 
-"""
-模块说明
-	作者：马世奇
-	功能：计算各组主观评价结果间的相关系数
-	创建时间：2019-10-24
-	修改时间：2019-10-29
-"""
 
 files = {"idle.xlsx": 13, "const.xlsx": 16}			# 怠速13个；匀速16个
 file = "const.xlsx"									# 改这里！！！
