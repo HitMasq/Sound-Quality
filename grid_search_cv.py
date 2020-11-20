@@ -1,8 +1,3 @@
-"""
-网格搜索法+交叉验证法寻优
-作者：马世奇
-完成时间2019.11.06
-"""
 import time
 import numpy as np
 from sklearn.svm import SVR
