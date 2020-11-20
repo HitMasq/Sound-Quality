@@ -1,9 +1,3 @@
-"""
-模型验证，用于查看结果、保存模型
-作者：马世奇
-完成时间：2019.11.07
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
