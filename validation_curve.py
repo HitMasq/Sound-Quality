@@ -1,9 +1,3 @@
-"""
-超参数局部寻优，用于细化网格划分，查看训练误差与测试误差
-作者：马世奇
-完成时间：2019.11.07
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.svm import SVR
